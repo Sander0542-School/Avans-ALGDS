@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sande\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sande\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Practicum7.1686805015.00" t="ExcludeRecursive" />
+    <e p="C:\Users\sande\AppData\Roaming\JetBrains\Rider2020.2\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\sande\AppData\Roaming\JetBrains\Rider2020.2\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\sande\OneDrive - Avans Hogeschool\Blok 5\ALGDS\Practicum7" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Practicum7" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="LogFile.cs" t="Include" />
+        <e p="LogFileLink.cs" t="Include" />
+        <e p="NawDictionary.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Practicum7.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Practicum7.sln" t="IncludeFlat" />
+      <e p="Practicum7WorkshopTests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="LogFileTest.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Practicum7WorkshopTests.csproj" t="IncludeRecursive" />
+        <e p="TestableLogFile.cs" t="Include" />
+      </e>
+      <e p="TestBase" t="IncludeRecursive">
+        <e p="Attributes" t="Include">
+          <e p="CodeAttribute.cs" t="Include" />
+          <e p="PointsAttribute.cs" t="Include" />
+          <e p="ScenarioAttribute.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Decorators" t="Include">
+          <e p="Decorator.cs" t="Include" />
+          <e p="TestableArray.cs" t="Include" />
+          <e p="TestableBinarySearchableOrderedArray.cs" t="Include" />
+          <e p="TestableBubbleSortableArray.cs" t="Include" />
+          <e p="TestableInsertionSortableNawArrayUnordered.cs" t="Include" />
+          <e p="TestableOrderableNawArrayUnordered.cs" t="Include" />
+          <e p="TestableOrderedArray.cs" t="Include" />
+          <e p="TestableSelectionSortableNawArrayUnordered.cs" t="Include" />
+        </e>
+        <e p="Helpers.cs" t="Include" />
+        <e p="MyClass.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="TestBase.csproj" t="IncludeRecursive" />
+        <e p="Utils" t="Include">
+          <e p="ArrayExtensions.cs" t="Include" />
+          <e p="Complexity.cs" t="Include" />
+          <e p="IntegerExtensions.cs" t="Include" />
+          <e p="RandomNawGenerator.cs" t="Include" />
+          <e p="RandomStringGenerator.cs" t="Include" />
+          <e p="TimedOperations.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Utils" t="IncludeRecursive">
+        <e p="BigO.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Exceptions" t="Include">
+          <e p="NawArrayOrderedInvalidSizeException.cs" t="Include" />
+          <e p="NawArrayOrderedOutOfBoundsException.cs" t="Include" />
+          <e p="NawArrayUnorderedInvalidSizeException.cs" t="Include" />
+          <e p="NawArrayUnorderedOutOfBoundsException.cs" t="Include" />
+          <e p="NawQueueArrayInvalidSizeException.cs" t="Include" />
+          <e p="NawQueueArrayOutOfBoundsException.cs" t="Include" />
+        </e>
+        <e p="IBinarySearch.cs" t="Include" />
+        <e p="IBubbleSort.cs" t="Include" />
+        <e p="IDoublyLinkedList.cs" t="Include" />
+        <e p="IInsertionSort.cs" t="Include" />
+        <e p="ILinkedList.cs" t="Include" />
+        <e p="INawArray.cs" t="Include" />
+        <e p="INawArrayOrdered.cs" t="Include" />
+        <e p="INawArrayUnordered.cs" t="Include" />
+        <e p="INawDictionary.cs" t="Include" />
+        <e p="ISelectionSort.cs" t="Include" />
+        <e p="ISortableNawArrayUnordered.cs" t="Include" />
+        <e p="IStack.cs" t="Include" />
+        <e p="ITestableNawArray.cs" t="Include" />
+        <e p="IToNawArrayOrdered.cs" t="Include" />
+        <e p="Logging" t="Include">
+          <e p="Logger.cs" t="Include" />
+          <e p="LogItem.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Alg1HashItemArray.cs" t="Include" />
+          <e p="Alg1NawArray.cs" t="Include" />
+          <e p="DoubleLink.cs" t="Include" />
+          <e p="GenericAlg1HashItemArray.cs" t="Include" />
+          <e p="GenericHashItem.cs" t="Include" />
+          <e p="HashItem.cs" t="Include" />
+          <e p="Link.cs" t="Include" />
+          <e p="NAW.cs" t="Include" />
+          <e p="RandomGenerator.cs" t="Include" />
+          <e p="StackLink.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Utils.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
